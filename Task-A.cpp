@@ -11,7 +11,7 @@ If there exists a sequence of operations find it. (Bonus: Find the shortest sequ
 
 #include <bits/stdc++.h>
 #define MAX 10000
-
+    
 int main()
 {
     int a, b;
